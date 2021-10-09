@@ -10,4 +10,4 @@ I am passionate about Software Engineering and Robotics.
 
 
 ### ⚡️ Skills and Interests
-`Software Development`, `Golang`, `PHP`, `C++`, `Scrum`, `Technical Leadership`, `Lecturing`, `Machine Learning`
+`Software Development`, `Golang`, `PHP`, `C++`, `Scrum`, `Leadership`, `Lecturing`, `Machine Learning`
