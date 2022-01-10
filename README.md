@@ -13,11 +13,11 @@ I am passionate about Software Engineering and Robotics.
   * `Golang`
   * `PHP`
   * `C++`
-  *`Lecturing`
-  *`Machine Learning`
-  *'Robotics'
+  * `Lecturing`
+  * `Machine Learning`
+  * 'Robotics'
 * 🔭 Interest
-  *`Scrum`
-  *`Leadership`
+  * `Scrum`
+  * `Leadership`
 
 
