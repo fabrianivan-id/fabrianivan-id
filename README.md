@@ -9,7 +9,7 @@ I am passionate about Software Engineering and Robotics.
 
 
 ### ⚡️ Skills and Interests
-* 🌱 Skills
+🌱 Skills
   * `Software Development`
   * `Golang`
   * `PHP`
@@ -17,6 +17,9 @@ I am passionate about Software Engineering and Robotics.
   *`Lecturing`
   *`Machine Learning`
   *'Robotics'
-* 🔭 Interest
+🔭 Interest
   *`Scrum`
   *`Leadership`
+
+
+-->
