@@ -3,7 +3,7 @@ Junior Back End Engineer
 
 ## 📫 Reach me on
 [![fabrianivan](https://img.shields.io/badge/-fabrianivan-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fabrianivan/)](https://www.linkedin.com/in/fabrianivan/)
-[![GitHub](https://img.shields.io/badge/-fabrianivan-333333?style=flat&logo=Github&logoColor=white&link=https://github.com/fabrianivan)](https://github.com/fabrianivan)
+[![GitHub](https://img.shields.io/badge/-fabrianivan21-333333?style=flat&logo=Github&logoColor=white&link=https://github.com/fabrianivan21)](https://github.com/fabrianivan21)
 [![GitLab](https://img.shields.io/badge/-fabrianivan-333333?style=flat&logo=Gitlab&logoColor=white&link=https://gitlab.com/fabrianivan)](https://gitlab.com/fabrianivan)
 ![Profile View](https://visitor-badge.laobi.icu/badge?page_id=fabrianivan.visitor-badge)
 
