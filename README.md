@@ -2,9 +2,10 @@
 Junior Back End Engineer
 
 ## 📫 Reach me on
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/fabrianivan)
-[![fabrianivan](https://img.shields.io/badge/github-%230077B5.svg?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/fabrianivan)
-[![fabrianivan](https://img.shields.io/badge/gitlab-%230077B5.svg?&style=for-the-badge&logo=github&logoColor=white)](https://gitlab.com/fabrianivan)
+[![fabrianivan](https://img.shields.io/badge/-fabrianivan-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fabrianivan/)](https://www.linkedin.com/in/fabrianivan/)
+[![GitHub](https://img.shields.io/badge/-fabrianivan-333333?style=flat&logo=Github&logoColor=white&link=https://github.com/fabrianivan)](https://github.com/fabrianivan)
+[![GitLab](https://img.shields.io/badge/-fabrianivan-333333?style=flat&logo=Gitlab&logoColor=white&link=https://gitlab.com/fabrianivan)](https://gitlab.com/fabrianivan)
+![Profile View](https://visitor-badge.laobi.icu/badge?page_id=fabrianivan.visitor-badge)
 
 I am passionate about Software Engineering and Robotics. 
 
@@ -17,7 +18,7 @@ I am passionate about Software Engineering and Robotics.
   * `C++`
   * `Lecturing`
   * `Machine Learning`
-  * 'Robotics'
+  * `Robotics`
 * 🔭 Interest
   * `Scrum`
   * `Leadership`
