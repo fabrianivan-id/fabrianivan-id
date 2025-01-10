@@ -15,12 +15,17 @@ I am passionate about Software Engineering and Robotics.
   * `Software Development`
   * `Golang`
   * `PHP`
+  * `Swift`
+  * `HTML`
+  * `CSS`
   * `C++`
   * `Lecturing`
   * `Machine Learning`
+  * `Artificial Intelligence`
   * `Robotics`
 * 🔭 Interest
-  * `Scrum`
+  * `Management`
   * `Leadership`
+  * `Technology`
 
 
