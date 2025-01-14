@@ -13,8 +13,8 @@
     <a href="mailto:fabrian.ivan@gmail.com" target="_blank">
         <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
     </a>
-    <a href="https://profile.google.com/fabrianivan" target="_blank">
-      <img src="https://img.shields.io/badge/Google%20Developer%20Profile-fabrianivan-blue?style=for-the-badge&logo=google&logoColor=white" alt="Google Developer Profile" />
+    <a href="https://profile.google.com/u/fabrianivan" target="_blank">
+      <img src="https://img.shields.io/badge/Google%20Developer%20-fabrianivan-blue?style=for-the-badge&logo=google&logoColor=white" alt="Google Developer Profile" />
     </a>
     <a href="https://www.linkedin.com/in/fabrianivan/" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="LinkedIn" />
