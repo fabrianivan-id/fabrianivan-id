@@ -49,7 +49,6 @@
 
 <div align="center">
     <p><img src="https://github-readme-stats.vercel.app/api?username=fabrianivan-id&show_icons=true&theme=radical&include_all_commits=true" alt="Ivan's GitHub stats" /><p>
-    <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=fabrianivan-id&theme=radical&hide_border=false" alt="fabrianivan-id" /></p>
     <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabrianivan-id&layout=compact&theme=radical" alt="Ivan's GitHub languages" /><p>
 </div>
 
