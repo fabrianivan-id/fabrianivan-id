@@ -20,7 +20,7 @@
         <img src="https://img.shields.io/badge/Medium-%2312100E.svg?style=for-the-badge&logo=Medium&logoColor=white" alt="Medium" />
     </a>
      <a href="https://x.com/fabrianivan" target="_blank">
-        <img src="https://img.shields.io/badge/X-%231DA1F2.svg?style=for-the-badge&logo=X&logoColor=white" alt="X" />
+        <img src="https://img.shields.io/badge/X-%2312100E.svg?style=for-the-badge&logo=X&logoColor=white" alt="X" />
     </a>
 </div>
 
