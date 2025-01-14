@@ -13,7 +13,7 @@
     <a href="mailto:fabrian.ivan@gmail.com" target="_blank">
         <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
     </a>
-    <a href="https://profile.google.com/u/fabrianivan" target="_blank">
+    <a href="https://developers.google.com/profile/u/fabrianivan" target="_blank">
       <img src="https://img.shields.io/badge/Google%20Developer%20-fabrianivan-blue?style=for-the-badge&logo=google&logoColor=white" alt="Google Developer Profile" />
     </a>
     <a href="https://www.linkedin.com/in/fabrianivan/" target="_blank">
