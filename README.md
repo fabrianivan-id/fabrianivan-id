@@ -40,7 +40,25 @@
 ### 🚀 My Projects & Clients
 
 <div align="center">
+ <a href="https://github.com/fabrianivan-id/RumahResep-Project" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/Rumah%20Resep-Backend-blueviolet?style=for-the-badge&logo=github&logoColor=white" alt="API RumahResep" />
+  </a>
+  <p><b>API Rumah Resep/b>: API for ordering ingredients for home recipe.</p>
 
+  <a href="https://github.com/fabrianivan-id/nodejs-bookshelf-api" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/Bookshelf%20API-Backend-blueviolet?style=for-the-badge&logo=github&logoColor=white" alt="Space Gym" />
+  </a>
+  <p><b>Bookshelf API</b>: An API for managing books in bookstore.</p>
+
+
+  <!-- Added Clients Section -->
+  <h3>Clients</h3>
+  <ul>
+    <li><b>BRImo</b>: BRI Mobile App - Digital Banking</li>
+    <li><b>BRImerchant</b>: BRI Merchant App - Digital Solution for Merchant</li>
+    <li><b>Vision+</b>: Streaming Platform</li>
+    <li><b>Accenture</b>: Global Consulting and Professional Services</li>
+  </ul>
 </div>
 
 ---
