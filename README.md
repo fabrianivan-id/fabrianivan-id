@@ -26,7 +26,7 @@
         <img src="https://img.shields.io/badge/X-%2312100E.svg?style=for-the-badge&logo=X&logoColor=white" alt="X" />
     </a>
     <a href="https://gitlab.com/fabrianivan" target="_blank">
-        <img src="https://img.shields.io/badge/Gitlab-%236600F.svg?style=for-the-badge&logo=X&logoColor=white" alt="Gitlab" />
+        <img src="https://img.shields.io/badge/Gitlab-%26600FF.svg?style=for-the-badge&logo=Gitlab&logoColor=white" alt="Gitlab" />
     </a>
 </div>
 
