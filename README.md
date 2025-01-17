@@ -11,7 +11,7 @@
 <div align="center">
     <!-- Social Media Links -->
     <a href="mailto:fabrian.ivan@gmail.com" target="_blank">
-        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+        <img src="https://img.shields.io/badge/Mail-Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
     </a>
     <a href="https://developers.google.com/profile/u/fabrianivan" target="_blank">
       <img src="https://img.shields.io/badge/Google%20Developer%20-fabrianivan-blue?style=for-the-badge&logo=google&logoColor=white" alt="Google Developer Profile" />
@@ -25,6 +25,9 @@
      <a href="https://x.com/fabrianivan" target="_blank">
         <img src="https://img.shields.io/badge/X-%2312100E.svg?style=for-the-badge&logo=X&logoColor=white" alt="X" />
     </a>
+    <a href="https://gitlab.com/fabrianivan" target="_blank">
+        <img src="https://img.shields.io/badge/Gitlab-%236600F.svg?style=for-the-badge&logo=X&logoColor=white" alt="Gitlab" />
+    </a>
 </div>
 
 ---
@@ -32,7 +35,7 @@
 <div align="center">
 
 📌 I'm a **Software Engineer** with a strong passion for building efficient backend systems and developing robust, scalable applications.<br>
-🌱 Currently honing my skills<br>
+🌱 Currently honing my skills and looking for challenges<br>
 💬 I’m happy to chat about **Coding**, **Movies**, **Swimming**, **Music**, and **Games**.<br>
 ⚡ **Fun Facts**: I'm a **Pisces** and a loyal **Taylor Swift fan**. Graduated with a **Bachelor's degree in Computer Science**.
 
