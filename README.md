@@ -59,11 +59,11 @@
 
   <!-- Added Clients Section -->
   <h3>Clients</h3>
+    <p><b>Accenture</b>: Global Consulting and Professional Services</p>
     <p><b>BRImo</b>: BRI Mobile App - Digital Banking</p>
     <p><b>BRImerchant</b>: BRI Merchant App - Digital Solution for Merchant</p>
     <p><b>Vision+</b>: Streaming Platform</p>
-    <p><b>Accenture</b>: Global Consulting and Professional Services</p>
-
+    <p><b>Smartfren OLA</b>: Order System for Smartfren products</p>
 </div>
 
 ---
