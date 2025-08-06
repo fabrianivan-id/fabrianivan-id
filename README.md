@@ -1,4 +1,4 @@
-<h1 align="center">Hello Code :) 👋</h1>
+<h1 align="center">Hi :) 👋</h1>
 <h2 align="center">I'm Fabrian Ivan Prasetya</h2>
 <p align="center"><strong>"I'm always looking for new challenges and opportunities. If you're looking for a skilled and motivated software engineer, feel free to reach out to me!
 ."</strong></p>
