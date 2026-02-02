@@ -53,6 +53,9 @@
   <a href="https://github.com/fabrianivan-id/nodejs-bookshelf-api" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/Bookshelf%20API-Backend-blueviolet?style=for-the-badge&logo=github&logoColor=white" alt="Space Gym" />
   </a>
+  <a href="https://github.com/fabrianivan-id/sftp-watchdog" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/SFTP%20Watchdog-blueviolet?style=for-the-badge&logo=github&logoColor=white" alt="Space Gym" />
+  </a>
   <p><b>Bookshelf API</b>: An API for managing books in bookstore.</p>
 
 
@@ -70,10 +73,13 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-    <p><img src="https://github-readme-stats.vercel.app/api?username=fabrianivan-id&show_icons=true&theme=radical&include_all_commits=true" alt="Ivan's GitHub stats" /><p>
-    <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabrianivan-id&layout=compact&theme=radical" alt="Ivan's GitHub languages" /><p>
+  <p>
+    <img src="https://github-readme-stats.vercel.app/api?username=fabrianivan-id&showicons=true&theme=radical&includeallcommits=true&countprivate=true" alt="Ivan's GitHub stats" />
+  </p>
+  <p>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabrianivan-id&layout=compact&theme=radical&langs_count=8" alt="Ivan's Top Languages" />
+  </p>
 </div>
-
 ---
 
 ### 📚 Currently Learning and Exploring
