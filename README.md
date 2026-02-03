@@ -17,7 +17,7 @@
     <a href="https://www.linkedin.com/in/fabrianivan/" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="LinkedIn" />
     </a>
-    <a href="https://medium.com/@fabrian.ivan" target="_blank">
+    <a href="https://fabrianivan.medium.com/" target="_blank">
         <img src="https://img.shields.io/badge/Medium-%2312100E.svg?style=for-the-badge&logo=Medium&logoColor=white" alt="Medium" />
     </a>
      <a href="https://x.com/fabrianivan" target="_blank">
@@ -139,8 +139,4 @@
 <p align="center">
   <b>Terrajin dan Terontime</b><br>
   Recognized for performance and contribution in BRImo initiatives.
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=fabrianivan-id&theme=radical&margin-w=15&margin-h=15&column=6" alt="GitHub Trophy" />
 </p>
