@@ -4,11 +4,10 @@
 
 <div align="center">
     <img src="https://komarev.com/ghpvc/?username=fabrianivan-id&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-    <img src="https://img.shields.io/github/commit-activity/y/fabrianivan-id/fabrianivan-id?label=Total%20Commits&color=" alt="Total Commits" />
+    <img src="https://img.shields.io/github/commit-activity/y/fabrianivan-id/fabrianivan-id?label=Total%20Commits" alt="Total Commits" />
 </div>
 
 <div align="center">
-    <!-- Social Media Links -->
     <a href="mailto:fabrian.ivan@gmail.com" target="_blank">
         <img src="https://img.shields.io/badge/Mail-Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
     </a>
@@ -51,15 +50,13 @@
   <p><b>API Rumah Resep</b>: API for ordering ingredients for home recipe.</p>
 
   <a href="https://github.com/fabrianivan-id/nodejs-bookshelf-api" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/Bookshelf%20API-Backend-blueviolet?style=for-the-badge&logo=github&logoColor=white" alt="Space Gym" />
+    <img src="https://img.shields.io/badge/Bookshelf%20API-Backend-blueviolet?style=for-the-badge&logo=github&logoColor=white" alt="Bookshelf API" />
   </a>
   <a href="https://github.com/fabrianivan-id/sftp-watchdog" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/SFTP%20Watchdog-blueviolet?style=for-the-badge&logo=github&logoColor=white" alt="Space Gym" />
+    <img src="https://img.shields.io/badge/SFTP%20Watchdog-blueviolet?style=for-the-badge&logo=github&logoColor=white" alt="SFTP Watchdog" />
   </a>
   <p><b>Bookshelf API</b>: An API for managing books in bookstore.</p>
 
-
-  <!-- Added Clients Section -->
   <h3>Clients</h3>
     <p><b>Accenture</b>: Global Consulting and Professional Services</p>
     <p><b>BRImo</b>: BRI Mobile App - Digital Banking</p>
@@ -74,12 +71,13 @@
 
 <div align="center">
   <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=fabrianivan-id&showicons=true&theme=radical&includeallcommits=true&countprivate=true" alt="Ivan's GitHub stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=fabrianivan-id&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Ivan's GitHub stats" />
   </p>
   <p>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabrianivan-id&layout=compact&theme=radical&langs_count=8" alt="Ivan's Top Languages" />
   </p>
 </div>
+
 ---
 
 ### 📚 Currently Learning and Exploring
@@ -124,16 +122,25 @@
         <img src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg" alt="gitlab" width="40" height="40"/>
     </td>
     <td align="center">
-        <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-ar21.svg" alt="linux" width="80" height="30"/>
-        <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-ar21.svg" alt="linux" width="80" height="30"/>
+        <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-ar21.svg" alt="rabbitmq" width="80" height="30"/>
+        <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-ar21.svg" alt="kafka" width="80" height="30"/>
     </td>
   </tr>
 </table>
 
 ---
 
-<h2 align="center">🏆 Achievements</h2>
+<h2 align="center">🏆 Awards & Recognition</h2>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/BRImo%20Awards-2022-ff4d4d?style=for-the-badge&logo=award&logoColor=white" alt="BRImo Awards 2022" />
+</p>
+
+<p align="center">
+  <b>Terrajin dan Terontime</b><br>
+  Recognized for performance and contribution in BRImo initiatives.
+</p>
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=fabrianivan-id&theme=radical&margin-w=15&margin-h=15&column=6" alt="GitHub Trophy" />
-</p> 
+</p>
