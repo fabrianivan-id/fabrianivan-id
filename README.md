@@ -52,10 +52,12 @@
   <a href="https://github.com/fabrianivan-id/nodejs-bookshelf-api" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/Bookshelf%20API-Backend-blueviolet?style=for-the-badge&logo=github&logoColor=white" alt="Bookshelf API" />
   </a>
+  <p><b>Bookshelf API</b>: An API for managing books in bookstore.</p>
+  
   <a href="https://github.com/fabrianivan-id/sftp-watchdog" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/SFTP%20Watchdog-blueviolet?style=for-the-badge&logo=github&logoColor=white" alt="SFTP Watchdog" />
   </a>
-  <p><b>Bookshelf API</b>: An API for managing books in bookstore.</p>
+    <p><b>SFTP Watchdog</b>: An desktop windows services for backup solution.</p>
 
   <h3>Clients</h3>
     <p><b>Accenture</b>: Global Consulting and Professional Services</p>
