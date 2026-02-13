@@ -73,7 +73,7 @@
 
 <img src="https://github-readme-stats-neon-nine-36.vercel.app/api?username=fabrianivan-id&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Ivan's GitHub stats" />
 
-<img src="https://github-readme-stats-neon-nine-36.vercel.app/api/top-langs/?username=fabrianivan-id&layout=compact&theme=radical&langs_count=8&hide=html,css" alt="Ivan's Top Languages" />
+<img src="https://github-readme-stats-neon-nine-36.vercel.app/api/top-langs/?username=fabrianivan-id&layout=compact&theme=radical&langs_count=8" alt="Ivan's Top Languages" />
 
 
 ---
