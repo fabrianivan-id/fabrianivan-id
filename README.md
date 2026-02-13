@@ -75,7 +75,7 @@
   src="https://github-readme-stats-neon-nine-36.vercel.app/api?username=fabrianivan-id&show_icons=true&theme=radical&include_all_commits=true&count_private=true" 
   height="200"
 /> <img 
-  src="https://github-readme-stats-neon-nine-36.vercel.app/api/top-langs/?username=fabrianivan-id&layout=compact&theme=radical&langs_count=8&hide=jupyter%20notebook" 
+  src="https://github-readme-stats-neon-nine-36.vercel.app/api/top-langs/?username=fabrianivan-id&layout=compact&theme=radical&langs_count=8&hide=jupyter%20notebook,html,css,javascript" 
   height="200"
 />
 
