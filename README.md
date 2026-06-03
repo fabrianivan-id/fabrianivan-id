@@ -76,10 +76,10 @@ Backend Engineer • System Builder • Performance-Oriented Developer
 <table>
   <tr>
     <td width="50%">
-      <h3 align="center">DevelElevate</h3>
+      <h3 align="center">DevElevate</h3>
       <p align="center">
         <a href="https://github.com/fabrianivan-id/develevate">
-          <img src="https://img.shields.io/badge/View%20Repository-DevElevate-7c3aed?style=for-the-badge&logo=github&logoColor=white" />
+          <img src="https://img.shields.io/badge/View%20Repository-DevElevate-7c3aed?style=for-the-badge&logo=github&logoColor=green" />
         </a>
       </p>
       <p align="center">
@@ -105,7 +105,7 @@ Backend Engineer • System Builder • Performance-Oriented Developer
       <h3 align="center">Bookshelf API</h3>
       <p align="center">
         <a href="https://github.com/fabrianivan-id/nodejs-bookshelf-api">
-          <img src="https://img.shields.io/badge/View%20Repository-Bookshelf%20API-7c3aed?style=for-the-badge&logo=github&logoColor=white" />
+          <img src="https://img.shields.io/badge/View%20Repository-Bookshelf%20API-7c3aed?style=for-the-badge&logo=github&logoColor=w" />
         </a>
       </p>
       <p align="center">
@@ -116,7 +116,7 @@ Backend Engineer • System Builder • Performance-Oriented Developer
       <h3 align="center">SFTP Watchdog</h3>
       <p align="center">
         <a href="https://github.com/fabrianivan-id/sftp-watchdog">
-          <img src="https://img.shields.io/badge/View%20Repository-SFTP%20Watchdog-7c3aed?style=for-the-badge&logo=github&logoColor=white" />
+          <img src="https://img.shields.io/badge/View%20Repository-SFTP%20Watchdog-7c3aed?style=for-the-badge&logo=github&logoColor=yellow" />
         </a>
       </p>
       <p align="center">
