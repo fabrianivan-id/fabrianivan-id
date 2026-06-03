@@ -79,11 +79,11 @@ Backend Engineer • System Builder • Performance-Oriented Developer
       <h3 align="center">DevelElevate</h3>
       <p align="center">
         <a href="https://github.com/fabrianivan-id/develevate">
-          <img src="https://img.shields.io/badge/View%20Repository-DevelElevate-7c3aed?style=for-the-badge&logo=github&logoColor=white" />
+          <img src="https://img.shields.io/badge/View%20Repository-DevElevate-7c3aed?style=for-the-badge&logo=github&logoColor=white" />
         </a>
       </p>
       <p align="center">
-        A backend-focused project designed to support developer growth, structured learning, and scalable application development.
+        An AI Gemini-integrated project designed to support developer growth, structured learning, and scalable application development.
         Built with attention to clean architecture, maintainability, and production-ready backend practices.
       </p>
     </td>
